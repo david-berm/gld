@@ -14,6 +14,24 @@
 
 <_Country_>						[Mexico (MEX)] </_Country_>
 <_Survey Title_>				[Encuesta Nacional de Ocupación y Empleo] </_Survey Title_>
+<_Survey Year_>					[2005] </_Survey Year_>
+<_Study ID_>					[Microdata Library ID if present] </_Study ID_>
+<_Data collection from_>		[01/2005] </_Data collection from_>
+<_Data collection to_>			[05/2005] </_Data collection to_>
+<_Source of dataset_> 			[Mexico NSO] </_Source of dataset_>
+<_Sample size (HH)_> 			[102,856] </_Sample size (HH)_>
+<_Sample size (IND)_> 			[409,098] </_Sample size (IND)_>
+<_Sampling method_> 			[El tipo de muestreo utilizado es probabilístico, bietápico, estratificado y por conglomerados.] </_Sampling method_>
+<_Geographic coverage_> 		[Los niveles geograficos usados en la encuesta de México comienzan en estados siguen con ciudades autorrepresentadas y terminan con municipios de las ciudades autorrepresentadas. https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/metodologias/est/cobertura.pdf] </_Geographic coverage_>
+<_Currency_> 					[Pesos] </_Currency_>
+
+-----------------------------------------------------------------------
+
+<_ICLS Version_>				[ICLS 13] </_ICLS Version_>
+<_ISCED Version_>				[ISCED 1997] </_ISCED Version_>
+<_ISCO Version_>				[ISCO-08] </_ISCO Version_>
+<_OCCUP National_>				[CMO I & II 1998 ] </_OCCUP National_>
+<_ISIC Version_>				[Rev 4] </_ISIC Version_>
 <_INDUS National_>				[SCIAN 2007] </_INDUS National_>
 
 -----------------------------------------------------------------------
